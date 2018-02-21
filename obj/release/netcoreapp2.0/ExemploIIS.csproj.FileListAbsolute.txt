@@ -1,0 +1,10 @@
+C:\Users\01317235614\backend\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.deps.json
+C:\Users\01317235614\backend\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.runtimeconfig.json
+C:\Users\01317235614\backend\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.runtimeconfig.dev.json
+C:\Users\01317235614\backend\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.dll
+C:\Users\01317235614\backend\ExemploIIS\bin\release\netcoreapp2.0\ExemploIIS.pdb
+C:\Users\01317235614\backend\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.csproj.CoreCompileInputs.cache
+C:\Users\01317235614\backend\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.AssemblyInfoInputs.cache
+C:\Users\01317235614\backend\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.AssemblyInfo.cs
+C:\Users\01317235614\backend\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.dll
+C:\Users\01317235614\backend\ExemploIIS\obj\release\netcoreapp2.0\ExemploIIS.pdb
